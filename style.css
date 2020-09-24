@@ -1,0 +1,37 @@
+body{
+    background: #00bbf9;
+    margin:30px 0 30px 0 ;
+    font-family: Tahoma;
+}
+.mycl1{
+    background: white;
+    width: 40%;
+    border-radius: 30px 10px 30px 10px;
+    padding-bottom: 2px;
+
+}
+.img1{
+    width: 30%;
+}
+.text{
+    font-size: 25px;
+}
+
+.img2{
+    width: 40%;
+    border-radius: 30px 10px 30px 10px;
+}
+.left{
+    margin: 0px 0px 0px 400px;
+    background: white;
+    width: 20%;
+    border-radius: 30px 10px 30px 10px;
+    padding: 0px 0px 3px 10px;
+}
+.right{
+    padding: 0px 0px 3px 10px;
+    margin: 0px 0px 15px 669px;
+    background: white;
+    width: 20%;
+    border-radius: 30px 10px 30px 10px;
+}
